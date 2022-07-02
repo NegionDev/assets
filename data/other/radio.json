@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Prambors FM",
+        "url": "https://22283.live.streamtheworld.com/PRAMBORS_FM.mp3",
+        "icon": "https://cdn.discordapp.com/attachments/733657145245171793/992802523326980096/unknown.png"
+    },
+    {
+        "name": "Listen.moe (JP)",
+        "url": "https://listen.moe/fallback",
+        "icon": "https://cdn.discordapp.com/attachments/733657145245171793/992802211274952774/unknown.png"
+    },
+    {
+        "name": "Listen.moe (KR)",
+        "url": "https://listen.moe/kpop/fallback",
+        "icon": "https://cdn.discordapp.com/attachments/733657145245171793/992802211274952774/unknown.png"
+    }
+]
