@@ -23,5 +23,60 @@
         "text": "By doing nothing, you become nothing.",
         "author": "?",
         "tags": ["daily", "inspirational"]
+    },
+    {
+        "text": "Life is 10% what happens to you and 90% how you react to it.",
+        "author": "Charles Rozell Swindoll",
+        "tags": ["daily", "life", "inspirational"]
+    },
+    {
+        "text": "Remember: the time you feel lonely is the time you most need to be by yourself. Life's cruelest irony.",
+        "author": "Douglas Coupland, Shampoo Planet",
+        "tags": ["inspirational", "sadness"]
+    },
+    {
+        "text": "People May Hear Your Words, But They Feel Your Attitude",
+        "author": "John Calvin Maxwell",
+        "tags": ["inspirational"]
+    },
+    {
+        "text": "Your life today is a result of your thinking yesterday. Your life tomorrow will be determined by what you think today.",
+        "author": "John Calvin Maxwell",
+        "tags": ["life", "inspirational"]
+    },
+    {
+        "text": "The secret of life is to fall seven times and to get up eight times.",
+        "author": "Paulo Coelho",
+        "tags": ["inspirational", "failure"]
+    },
+    {
+        "text": "Knowledge is knowing that a tomato is a fruit, wisdom is not putting it in a fruit salad.",
+        "author": "Miles Kington",
+        "tags": ["inspirational", "philosophy"]
+    },
+    {
+        "text": "When you take risks, you learn that there will be times when you succeed, and there will be times when you fail, and both are equally important.",
+        "author": "Ellen DeGeneres",
+        "tags": ["inspirational", "failure"]
+    },
+    {
+        "text": "Failure is another stepping stone to greatness.",
+        "author": "Oprah Winfrey",
+        "tags": ["inspirational", "failure"]
+    },
+    {
+        "text": "I can accept failure. Everyone fails at something. But I can't accept not trying.",
+        "author": "Michael Jordan",
+        "tags": ["inspirational", "failure"]
+    },
+    {
+        "text": "If you ever think about giving up, remember why you held on for so long.",
+        "author": "Hayley Williams",
+        "tags": ["inspirational"]
+    },
+    {
+        "text": "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.",
+        "author": "Winston Churchill",
+        "tags": ["inspirational"]
     }
 ]
